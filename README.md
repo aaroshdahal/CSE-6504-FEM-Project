@@ -1,5 +1,5 @@
 # CSE-6504-FEM-Project
 
-Simplistic matlab FEM code
+Final push made.
 
-Making final push on 04/29/2025
+Input file needs to have white lines after BOUNDARY
